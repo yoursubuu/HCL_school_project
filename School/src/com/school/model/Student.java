@@ -9,6 +9,7 @@ public class Student implements Serializable {
     private int id;
     private String name;
     private int age;
+    private String grade;
 
     public Student() {
     }
